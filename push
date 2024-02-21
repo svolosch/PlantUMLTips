@@ -2,4 +2,4 @@
 java -jar ./plantuml-1.2024.3.jar -o ../svg/  src/ -tsvg
 git add *
 git commit -m "autocommit"
-git push:
+git push
